@@ -19,12 +19,12 @@ Make sure you have FFmpeg and ffprobe installed on your system before running th
 3. Run the following command to make the script executable:
 
    ```shell
-   chmod +x script.sh
+   chmod +x ffmpeg_folder_video_converter.sh
    ```
 4. Execute the script by running the following command:
 
    ```shell
-    ./script.sh
+    ./ffmpeg_folder_video_converter.sh
     ```
 The script will start converting video files to the x265 format using FFmpeg. 
 Once sucessfully converted, the converted files will be moved to the completed_files directory, while the source files will be moved to the source_files directory.
