@@ -1,4 +1,4 @@
-# Video Converter
+# Folder Video Converter
 
 This is a Bash script that allows you to convert entire video files in the folder to the x265 format using FFmpeg. 
 The script iterates over files in the current directory, identifies video files, and converts them to x265 format with minimal loss in quality.
