@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Programe to convert video files to h265 and move sucessful files to the respective folder
 # Clear the terminal screen
 clear
 
